@@ -1,4 +1,5 @@
 #Лабораторная работа №6
+
 Копирование репозитория(https://github.com/Kurtyanik/LR6/) в свое личное хранилище 
 ![image](https://user-images.githubusercontent.com/117490646/200180759-b997b603-4448-4b91-8b4a-bd9bf1d98696.png)
 
