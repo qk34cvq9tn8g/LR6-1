@@ -1,5 +1,5 @@
  #Лабораторная работа №6
-Копирование репозитория в свое личное хранилище 
+Копирование репозитория(https://github.com/Kurtyanik/LR6/) в свое личное хранилище 
 ![image](https://user-images.githubusercontent.com/117490646/200180759-b997b603-4448-4b91-8b4a-bd9bf1d98696.png)
 
 Затем нужно настроить клиент git, для этого вводим имя пользователя и email. Комманды: git config --global user.name <username>; git config --global user.email <email>.
